@@ -5,7 +5,7 @@ This project utilizes the **High School Student Performance & Demographics**  da
 ---
 
 ## Dataset Description
-The dataset contains performance and demographic data from two Portuguese high schools. It includes features such as:
+The dataset contains performance and demographic data from two Portuguese high schools.The dataset provides information on performance in two distinct subjects, Mathematics and Portuguese language. It includes features such as:
 - Student grades (first period, second period, final grade).
 - Demographic attributes (age, sex, address type, etc.).
 - Social and family-related features (parent education, study time, support, etc.).
